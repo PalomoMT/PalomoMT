@@ -1,9 +1,11 @@
-<h2 align="left">Hola gente 👋 
+<h2 align="left">Hola gente 👋 <br> <br> 
+
+
 Soy Francisco Mondaca, Licenciado en Matemáticas y estudiante de Magister (Magister en Simulación Computacional, PUCV, Chile).
 Me encuentro terminando esta etapa, en este espacio compartiré proyectos propios para dejar plasmado mi trabajo y actuales trabajos
 para ver mi proceso de aprendizaje.
-
-Mis áreas de interes son las matemáticas aplicadas, estoy efocado actualmente en realizar análisis de datos para encontrar empleo,
+<br>
+Mis áreas de interes son las matemáticas aplicadas, estoy efocado actualmente en realizar análisis de datos,
 entrando en el mundo de microcontroladores y dentro de algunas semanas o meses me gustaria comenzar con temas de cibersegurirdad</h2>
 
 ###
@@ -20,7 +22,8 @@ entrando en el mundo de microcontroladores y dentro de algunas semanas o meses m
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt
+="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
   <img width="12" />
