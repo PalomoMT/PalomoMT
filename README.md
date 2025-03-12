@@ -1,12 +1,6 @@
 <h2 align="left">Hola gente 👋 <br> <br> 
 
 
-Soy Francisco Mondaca, Licenciado en Matemáticas y estudiante de Magister (Magister en Simulación Computacional, PUCV, Chile).
-Me encuentro terminando esta etapa, en este espacio compartiré proyectos propios para dejar plasmado mi trabajo y actuales trabajos
-para ver mi proceso de aprendizaje.
-<br>
-Mis áreas de interes son las matemáticas aplicadas, estoy efocado actualmente en realizar análisis de datos,
-entrando en el mundo de microcontroladores y dentro de algunas semanas o meses me gustaria comenzar con temas de cibersegurirdad</h2>
 
 ###
 
